@@ -5,3 +5,6 @@
 **:warning: Avertissement: ce design n'a pa été ni contruit ni testé. Ce dépôt n'offre aucune garantie quant au fonctionnement du prototype. Procédez à la fabrication à vos risques.**
 
 Créé avec le logiciel open source gratuit [KiCad V8.0.0](https://gitlab.com/kicad)
+
+![Vue dessus](./ressources/TrackSense-3D-TOP-RT.png)
+![Vue dessous](./ressources/TrackSense-3D-BOTTOM-RT.png)
