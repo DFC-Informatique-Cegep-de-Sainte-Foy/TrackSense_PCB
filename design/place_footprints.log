@@ -1,0 +1,22 @@
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 656:Plugin executed on: 'win32'
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 657:Plugin executed with python version: '3.11.5 (main, Jan 19 2024, 08:13:45) [MSC v.1936 64 bit (AMD64)]'
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 658:KiCad build version: 8.0.0
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 659:Plugin version: 3.0.1
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 660:Frame repr: <wx._core.Frame object at 0x000002668147FC70>
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+03-25 22:18:04 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 699:Reference footprint='L3'
+03-25 22:18:05 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 840:Reference designator is: L
+03-25 22:18:05 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 841:Reference number is: 3
+03-25 22:18:05 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 873:Sorted and filtered list:
+['L1', 'L2', 'L3', 'L4', 'L5']
+03-25 22:18:05 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 368:wx.Colour(240, 240, 240, 255)
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 499:'33.287'
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 551:Preparing config for reference circular
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 565:Saving config file
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 567:Saved the config file
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 911:Footprints to place:
+['L1', 'L2', 'L3', 'L4', 'L5']
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 359:Starting placing with circular layout
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 369:reference footprint position at: VECTOR2I(58803600, 75620000)
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.place_footprints 374:rotation center at: (58803600, 108907000.0)
+03-25 22:18:14 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 926:Placing complete
